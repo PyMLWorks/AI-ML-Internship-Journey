@@ -24,7 +24,7 @@ Concepts:
 ## Mini Project
 Student Performance Analyzer
 
-# Features:
+Features:
 - Display data
 - Filter students
 - Find statistics
